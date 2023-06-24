@@ -153,5 +153,4 @@ Feedstock Maintainers
 =====================
 
 * [@Galileo-Galilei](https://github.com/Galileo-Galilei/)
-* [@rxm7706](https://github.com/rxm7706/)
 
