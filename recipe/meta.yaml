@@ -1,5 +1,5 @@
 {% set name = "kedro-mlflow" %}
-{% set version = "2.0.1" %}
+{% set version = "2.0.2" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/kedro_mlflow-{{ version }}.tar.gz
-  sha256: 73ee2c99f18b8dc42679f04af1053348b9775003857a745f34e40084bb647ee9
+  sha256: 2cc977a8915fd6feea1cabd3d3f53521837f5d5bf42c9b18d22c21292b832476
 
 build:
   noarch: python
